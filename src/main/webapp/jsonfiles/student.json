@@ -1,0 +1,50 @@
+{
+	"firstName": "Abhinav",
+	"lastName": "Mittal",
+	"email": "abhinavmittal93@gmail.com",
+	"phoneNumber": "4372193341",
+	"address": [
+		{
+			"street": "29 Withers Way",
+			"city": "Brampton",
+			"state": "Ontario"
+		},
+		{
+			"street": "73 Finegan Cir",
+			"city": "Brampton",
+			"state": "Ontario"
+		},
+		{
+			"street": "10 Bonavista Dr",
+			"city": "Brampton",
+			"state": "Ontario"
+		}
+	],
+	"scores": [
+		{
+			"courseId": "CSD1001",
+			"courseName": "Python",
+			"score": 80
+		},
+		{
+			"courseId": "CSD1002",
+			"courseName": "Java",
+			"score": 90
+		},
+		{
+			"courseId": "CSD1003",
+			"courseName": "C#",
+			"score": 85
+		},
+		{
+			"courseId": "CSD1004",
+			"courseName": "SQL",
+			"score": 95
+		},
+		{
+			"courseId": "CSD1005",
+			"courseName": "Web Technologies",
+			"score": 85
+		}
+	]
+}
